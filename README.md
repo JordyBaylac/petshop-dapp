@@ -9,3 +9,4 @@ Be sure Ganache is running
     truffle compile
     truffle migrate
     truffle test
+    npm run dev
